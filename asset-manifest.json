@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rolls-royce-website/static/css/main.4dca0fb6.css",
+    "main.js": "/rolls-royce-website/static/js/main.6e226519.js",
+    "static/js/453.500c2224.chunk.js": "/rolls-royce-website/static/js/453.500c2224.chunk.js",
+    "static/media/jpg": "/rolls-royce-website/static/media/a3bb6022c0a29b4bfb80a43c568caf17.8feccf810ad620f74c91.jpg",
+    "index.html": "/rolls-royce-website/index.html",
+    "main.4dca0fb6.css.map": "/rolls-royce-website/static/css/main.4dca0fb6.css.map",
+    "main.6e226519.js.map": "/rolls-royce-website/static/js/main.6e226519.js.map",
+    "453.500c2224.chunk.js.map": "/rolls-royce-website/static/js/453.500c2224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dca0fb6.css",
+    "static/js/main.6e226519.js"
+  ]
+}
